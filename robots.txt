@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://horahceeso.mountaineerpartners.com/sitemap.xml
